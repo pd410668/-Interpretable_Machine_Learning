@@ -27,10 +27,10 @@ data_description.txt - attached
 Contents:
 
 ● Importing the Required Libraries and Data
-● Data Preprocessing
-● PCA Decomposition
-● TSNE Decomposition
-● XGBoost
-● Training the Model
-● Bayesian Optimization
-● XGBoost Visual: Relative Importance
+● Data Preprocessing <br> 
+● PCA Decomposition <br> 
+● TSNE Decomposition <br> 
+● XGBoost <br> 
+● Training the Model <br> 
+● Bayesian Optimization <br> 
+● XGBoost Visual: Relative Importance <br> 
