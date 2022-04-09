@@ -21,8 +21,8 @@ The data file contains simulated data from the operation of a certain production
 
 **PROJECT 2:**
 
-Predicting House Prices PCA, TSNE, and XGBoost.
-data_description.txt - attached
+Predicting House Prices PCA, TSNE, and XGBoost. <br> 
+features_description.txt - attached
 
 Contents:
 
