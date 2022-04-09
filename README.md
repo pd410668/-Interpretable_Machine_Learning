@@ -8,7 +8,7 @@ P1:
 The data file contains simulated data from the operation of a certain production installation. Contains 13 measurements.
 
 ● P1 - pressure parameter
-● T1 - Temperature 1
+● T1 - Temperature 1 //
 ● T2 - Temperature 2
 ● Ta1 - Temperature a1
 ● Ta3 - Temperature a3
