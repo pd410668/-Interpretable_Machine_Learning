@@ -26,7 +26,6 @@ data_description.txt - attached
 
 Contents:
 
-● Importing the Required Libraries and Data
 ● Data Preprocessing <br> 
 ● PCA Decomposition <br> 
 ● TSNE Decomposition <br> 
