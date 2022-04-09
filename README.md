@@ -35,5 +35,4 @@ Contents:
 ● TSNE Decomposition <br> 
 ● XGBoost <br> 
 ● Training the Model <br> 
-● Bayesian Optimization <br> 
 ● XGBoost Visual: Relative Importance <br> 
