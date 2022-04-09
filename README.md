@@ -3,7 +3,8 @@ Selected machine learning analyzes. Each project utilises difference AI and ML t
 
 **PROJECT 1:**
 
-The data file contains simulated data from the operation of a certain production installation. Contains 13 measurements.
+The data file contains simulated data from the operation of a certain production installation. Contains 13 measurements.<br> 
+Target variable "power" was predicted based on decision tree algorithm with very good precision. <br> 
 
 ● P1 - pressure parameter <br> 
 ● T1 - Temperature 1 <br> 
