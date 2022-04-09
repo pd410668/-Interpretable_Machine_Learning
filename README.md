@@ -19,4 +19,18 @@ The data file contains simulated data from the operation of a certain production
 ● v1 - Activity of the meter <br> 
 ● power - The power of the system <br> 
 
+**PROJECT 2:**
 
+Predicting House Prices PCA, TSNE, and XGBoost.
+data_description.txt - attached
+
+Contents:
+
+● Importing the Required Libraries and Data
+● Data Preprocessing
+● PCA Decomposition
+● TSNE Decomposition
+● XGBoost
+● Training the Model
+● Bayesian Optimization
+● XGBoost Visual: Relative Importance
