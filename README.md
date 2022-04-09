@@ -1,5 +1,4 @@
 ## Interpretable_Machine_Learning
-
 Selected machine learning analyzes. Each project utilises difference AI and ML techniques on different data sets.
 
 **PROJECT 1:**
