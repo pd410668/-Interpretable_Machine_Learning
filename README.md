@@ -24,6 +24,9 @@ The data file contains simulated data from the operation of a certain production
 Predicting House Prices PCA, TSNE, and XGBoost. <br> 
 features_description.txt - attached
 
+Introduction  <br> 
+This project consists of applying different techniques with the purpose of predicting the prices of houses in Ames, Iowa. I start by cleaning up the data, and then move on to implement Principle Component Analysis, TSNE, and finally, we use the XGBoost algorithm to predict the prices of houses.
+
 Contents:
 
 ● Data Preprocessing <br> 
