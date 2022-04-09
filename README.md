@@ -2,7 +2,7 @@
 
 Selected machine learning analyzes. Each project utilises difference AI and ML techniques on different data sets.
 
-PROJECT 1:
+**PROJECT 1:**
 
 The data file contains simulated data from the operation of a certain production installation. Contains 13 measurements.
 
