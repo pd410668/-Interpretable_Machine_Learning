@@ -24,6 +24,7 @@ Contents:
 ● XGBoost Visual: Relative Importance <br> 
 
 **PROJECT 3:**
+
 The project analysing data from California Housing Prices. The aim is to predict prices of houses in California state (median_house_value) based on 9 features (longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, and ocean_proximity).
 
 Contents:
