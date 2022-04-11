@@ -22,3 +22,17 @@ Contents:
 ● XGBoost <br> 
 ● Training the Model <br> 
 ● XGBoost Visual: Relative Importance <br> 
+
+**PROJECT 3:**
+The project analysing data from California Housing Prices. The aim is to predict prices of houses in California state (median_house_value) based on 9 features (longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, and ocean_proximity).
+
+Contents:
+● Data Preprocessing <br> 
+● Data Visualization (include geographical data) <br> 
+● Stratified sampling using Scikit-Learn’s StratifiedShuffleSplit() <br> 
+● Handling Categorical Attributes using OneHotEncoder <br> 
+● Custom Transformers and Transformation Pipelines <br> 
+● Training model using Decision Tree and Random Forest <br> 
+● Evaluation and Cross-Validation
+● Grid Search
+● Relative Importance of features <br> 
