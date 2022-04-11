@@ -8,7 +8,7 @@ Target variable "power" was predicted based on decision tree algorithm with very
 
 **PROJECT 2:**
 
-Predicting House Prices PCA, TSNE, and XGBoost. <br> 
+Predicting House Prices using PCA, TSNE, and XGBoost. <br> 
 features_description.txt - attached
 
 Introduction  <br> 
